@@ -13,16 +13,24 @@
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">**Model**</th>
-    <th class="tg-0lax">**Audio**</th>
+    <th class="tg-0lax" bgcolor='#cbcefb'>**Model**</th>
+    <th class="tg-0lax" bgcolor='#cbcefb'>**Audio**</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'1. This is Text'</td>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#efefef' colspan="2">
+      <p>
+      1. 样本1 <br />
+      第60集 夜话 <br />
+      吃完饭。 <br />
+      张勤带着郑富贵离开，只剩下他们，桌子上面摆放着灵果，他从东宫带回来的。
+      </p>
+   </td>
   </tr>
+  
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_01.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -39,7 +47,7 @@
     <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'2. This is Text'</td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_02.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
