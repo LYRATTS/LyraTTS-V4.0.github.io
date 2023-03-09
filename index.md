@@ -8,42 +8,13 @@
   </head>
   <body>
 
-    
-<!-- <h2>Sample 1<a name="multi-speaker"></a></h2>
-<h3> Using three reference audios </h3>
-<table>
-  
-    <tr>
-      <th style="text-align: left">Models</th>
-      <td style="text-align: left">audios</td>
-    </tr>
-  
-    <tr>
-      <td style="text-align: left" colspan="2">this is text</td>
-    </tr>
-  
-    <tr>
-      <th style="text-align: left"><strong>reference</strong></th>
-      <td style="text-align: left"><audio src="wavs\reference_01.wav" controls="" preload=""></audio></td>
-    </tr>
-  
-    <tr>
-      <th style="text-align: left"><strong>V3</strong></th>
-      <td style="text-align: left"><audio src="wavs\v3_01.wav" controls="" preload=""></audio></td>
-    </tr>
-  
-    <tr>
-      <th style="text-align: left"><strong>V4</strong></th>
-      <td style="text-align: left"><audio src="wavs\dv4.0_01.wav" controls="" preload=""></audio></td>
-    </tr>
 
-</table> -->
     
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">Model</th>
-    <th class="tg-0lax">Audio</th>
+    <th class="tg-0lax">**Model**</th>
+    <th class="tg-0lax">**Audio**</th>
   </tr>
 </thead>
 <tbody>
