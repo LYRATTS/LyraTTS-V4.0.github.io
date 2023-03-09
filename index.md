@@ -48,7 +48,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" colspan="2">'This is Text'</td>
+    <td class="tg-0lax" style="text-align: center" colspan="2">'1. This is Text'</td>
   </tr>
   <tr>
     <th class="tg-0lax">Reference</th>
@@ -62,9 +62,57 @@
     <td class="tg-0lax">V4</td>
     <td class="tg-0lax"><audio src="wavs\rv4.0_01.wav" controls="" preload=""></audio></td>
   </tr>
+  
+  
   <tr>
-    <td class="tg-0lax" colspan="2"></td>
+    <td class="tg-0lax" style="text-align: center" colspan="2">'2. This is Text'</td>
   </tr>
+  <tr>
+    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax"><audio src="wavs\reference_02.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_02.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\rv4.0_03.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-0lax" style="text-align: center" colspan="2">'3. This is Text'</td>
+  </tr>
+  <tr>
+    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax"><audio src="wavs\reference_03.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_03.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\rv4.0_03.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+  <tr>
+    <td class="tg-0lax" style="text-align: center" colspan="2">'4. This is Text'</td>
+  </tr>
+  <tr>
+    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax"><audio src="wavs\reference_04.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_04.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\rv4.0_04.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+  
 </tbody>
 </table>
     
