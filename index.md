@@ -74,7 +74,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_03.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -97,7 +97,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_04.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_05.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_06.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -163,7 +163,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_07.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -188,7 +188,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_08.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_09.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -237,7 +237,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_10.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -262,7 +262,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_11.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -287,7 +287,7 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax">Reference</td>
     <td class="tg-0lax"><audio src="wavs\reference_12.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
@@ -297,6 +297,182 @@
   <tr>
     <td class="tg-0lax">V4</td>
     <td class="tg-0lax"><audio src="wavs\v4.0_12.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+  
+    
+  <tr>
+    <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
+      <p>
+        眼看就要天亮。<br />
+        张荣华收功而立，并没有进屋休息，望着门口的方向，算算时间，他们应该要来了。<br />
+        咚咚！<br />
+        敲门声响起，在接近清晨的时候，非常的惹眼。<br />
+        听见动静，他笑了。<br />
+        进了大堂。<br />
+        一会儿，管家带着马平安和陆展堂走了进来，然后离开。<br />
+        张荣华指着椅子，笑道：<br />
+        “坐。”<br />
+        将灵果推了过去，示意他们别客气。<br />
+        俩人也没讲究，随手拿了个灵果吃了起来。
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reference</td>
+    <td class="tg-0lax"><audio src="wavs\reference_13.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_13.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\v4.0_13.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+    <tr>
+    <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
+      <p>
+        马平安感叹：<br />
+        “殿下对你是真的好，隔三差五的赏赐一批灵物。” <br />
+        “说的就像你没有似的。” <br />
+        “富贵呢？” <br />
+        “在屋里修炼。” <br />
+        “这家伙天赋强也就算了，居然还这么拼命，我们也不能落下，不然下次再切磋，就要被他单方面碾压了。” 
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reference</td>
+    <td class="tg-0lax"><audio src="wavs\reference_14.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_14.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\v4.0_14.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+    <tr>
+    <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
+      <p>
+        张荣华拿着茶壶倒了三杯茶，递过去两杯，端着一杯喝了一口：<br />
+        “怎么到现在？” <br />
+        “哼！有些人不识抬举，死到临头还要反抗，便耽搁了一点时间。死了这么多人，再加上善后，完事又回东宫禀告殿下，便拖到了这会。”
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reference</td>
+    <td class="tg-0lax"><audio src="wavs\reference_15.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_15.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\v4.0_15.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+  
+    <tr>
+    <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
+      <p>
+        取出两份银票，放在他的面前。<br />
+        一份两万两、一份五千两。<br />
+        多的是张荣华的，少的是郑富贵的。<br />
+        又取出一把折扇，呈金色，散发着灵宝的气息，还没有展开，便传出巨大的威压，一旦展开，杀伤力惊人。
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reference</td>
+    <td class="tg-0lax"><audio src="wavs\reference_16.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_16.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\v4.0_16.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+  
+    <tr>
+    <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
+      <p>
+        “这是从长羲公主府上搜出来的灵宝百鸟朝凤扇，威力惊人，挺符合你的气质，殿下也同意了，将它送给你！” <br />
+        将它拿在手中，重约五斤，材质特殊，像是庚金石和凤凰木炼制而成，将它展开，扇面上画着百鸟朝凰，群鸟围着一只金凤凰起舞，背景是天空。
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reference</td>
+    <td class="tg-0lax"><audio src="wavs\reference_17.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_17.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\v4.0_17.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+      <tr>
+    <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
+      <p>
+        试着挥舞一下，张荣华满意的点点头，将它收起来，笑道：<br />
+        “谢了！” <br />
+        “我们还需要这么客气？”<br />
+        指着陆展堂。<br />
+        “老陆升官了，殿下和真龙殿那边打过招呼，陛下也知道，如今他已经是紫龙使，不过却是最弱的，实力不匹配。像他这样的，真龙殿中有不少。”<br />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reference</td>
+    <td class="tg-0lax"><audio src="wavs\reference_18.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_18.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\v4.0_18.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+        <tr>
+    <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
+      <p>
+        陆展堂笑道：<br />
+        “沾了荣华的福。”<br />
+        “你呢？”<br />
+        马平安咧嘴一笑：<br />
+        “东宫戎卫牙将，总领蛟龙卫和太子近卫，正职的位置给你留下了。等你们当值，殿下就会宣布，富贵应该和我一样。”<br />
+        来往不往非礼也，他们将“抄家灭族”的油水送来，张荣华不能一点表示也没有：<br />
+        “明日我在家里设宴，带上你们的家眷，一同过来聚聚。”
+        
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Reference</td>
+    <td class="tg-0lax"><audio src="wavs\reference_19.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_19.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\v4.0_19.wav" controls="" preload=""></audio></td>
   </tr>
   
   
