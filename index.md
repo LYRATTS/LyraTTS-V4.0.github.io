@@ -39,14 +39,6 @@
 
 </table>
     
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
 <table class="tg">
 <thead>
   <tr>
@@ -59,16 +51,16 @@
     <td class="tg-0lax" colspan="2">'This is Text'</td>
   </tr>
   <tr>
-    <th class="tg-0lax">V3</th>
+    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax"><audio src="wavs\reference_01.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
     <td class="tg-0lax"><audio src="wavs\v3_01.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\rv4.0_01.wav" controls="" preload=""></audio></td>
   </tr>
   <tr>
     <td class="tg-0lax" colspan="2"></td>
