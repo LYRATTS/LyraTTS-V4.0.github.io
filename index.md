@@ -21,6 +21,7 @@
   <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+      【样例1】 <br />
       第60集 夜话 <br />
       吃完饭。 <br />
       张勤带着郑富贵离开，只剩下他们，桌子上面摆放着灵果，他从东宫带回来的。
@@ -45,6 +46,7 @@
   <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例2】 <br />
         郑柔将一个削好的苹果递了过去，柔声的问道：<br />
         “有心事？”<br />
         咬了一口苹果，张荣华摇头：<br />
@@ -68,6 +70,7 @@
   <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例3】 <br />
         “在娘面前还有什么不好说的？别急着否认，你是娘生的，什么样的性格，比你自己还要了解，小的时候你就这样，有心事的时候，喜欢一个人发呆，要么就像现在这样，情绪写在脸上。”<br />
         “你又这一套，以话诈我，又不是小孩子，吃了那么多亏，总长点记性吧！”
       </p>
@@ -89,6 +92,7 @@
   <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例4】 <br />
         “让娘猜猜，看猜的准不准。” <br />
         张荣华默默的吃着苹果。 <br />
         郑柔想了一下，忽然笑了：<br />
@@ -112,6 +116,7 @@
     <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例5】 <br />
         “为什么这么说？”<br />
         “你现在是蛟龙卫校尉，等太子封赏过后，还会再进一步，官场上面的事情率先排除，其次是生活上面，这点你也不差，前段时间立下的功劳，赏赐的钱财，考虑到你也大了，在外面应酬多，如果遇上喜欢的姑娘，这些都要花钱，便没替你保管，再次排除！修炼上面的事情，更不用说了，连富贵都被你压的死死的，功法、武技，没什么能难住你，你也不会为此发愁，算下来，只剩下感情方面。” 
       </p>
@@ -133,6 +138,7 @@
     <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例6】 <br />
         顿了一下，郑柔又道。<br />
         “我们家虽然不是权贵人家，但家世也不错，放眼诺大的京城，也能算中等，这些年来攒下来的家产也可以，能让你头痛的，那个女孩的家世应该很好吧？”<br />
         张荣华苦笑，他有点同情爹了，难怪这些年来被吃的死死的，娘平时虽然不过问大事，管理府上这些鸡毛蒜皮的小事，但智商很高，看的事情也比较远。
@@ -156,6 +162,7 @@
     <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例7】 <br />
         如果纪雪烟没有和太子定亲，就算她是太傅的掌上明珠，又能够如何？<br />
         再美的女子，不都要嫁人生子？<br />
         除了身份这一块差点，其它的方面，他并不差，只要肯努力，就没有办不到的事情。
@@ -179,6 +186,7 @@
       <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例8】 <br />
         俗话说。<br />
         铁杵都能磨成针，他比铁杵强了不知多少倍，难道还怕降服不了她？<br />
         问题是！<br />
@@ -205,6 +213,7 @@
    <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例9】 <br />
         转移话题。<br />
         “给爹的两千两，都被你拿去了吗？” <br />
         郑柔笑着点点头：<br />
@@ -230,6 +239,7 @@
    <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例10】 <br />
         从椅子上站起来。 <br />
         郑柔道：<br />
         “爱情是一辈子的事情，娘也无法劝你，万一你将来过的不好，嘴上不说，心里也会怪娘。你也不要勉强自己，跟着自己的心走，如果真的有缘，是你的还是你的，不是你的、强求不来。”<br />
@@ -253,6 +263,7 @@
      <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例11】 <br />
         张荣华也站了起来，将她抱在怀里，随即便分开，笑道：<br />
          “记住了。” <br />
         “时间不早了，快去休息吧！”<br />
@@ -278,6 +289,7 @@
      <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例12】 <br />
         站在院中。 <br />
         心灵前所未有的空明，手掌成拳，演练山河镇世拳，没有动用玄黄真元，只凭对拳法的感悟，一拳一式，却带着山河真意，大气磅礴。<br />
         随着出拳的速度越来越快，到了最后，周围的天地灵气被牵引过来，凝聚出一幅浩瀚的山河异象。<br />
@@ -304,6 +316,7 @@
   <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例13】 <br />
         眼看就要天亮。<br />
         张荣华收功而立，并没有进屋休息，望着门口的方向，算算时间，他们应该要来了。<br />
         咚咚！<br />
@@ -334,6 +347,7 @@
     <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例14】 <br />
         马平安感叹：<br />
         “殿下对你是真的好，隔三差五的赏赐一批灵物。” <br />
         “说的就像你没有似的。” <br />
@@ -358,7 +372,8 @@
   
     <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
-      <p>
+      <p>【
+        样例15】 <br />
         张荣华拿着茶壶倒了三杯茶，递过去两杯，端着一杯喝了一口：<br />
         “怎么到现在？” <br />
         “哼！有些人不识抬举，死到临头还要反抗，便耽搁了一点时间。死了这么多人，再加上善后，完事又回东宫禀告殿下，便拖到了这会。”
@@ -382,6 +397,7 @@
     <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例16】 <br />
         取出两份银票，放在他的面前。<br />
         一份两万两、一份五千两。<br />
         多的是张荣华的，少的是郑富贵的。<br />
@@ -406,6 +422,7 @@
     <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例17】 <br />
         “这是从长羲公主府上搜出来的灵宝百鸟朝凤扇，威力惊人，挺符合你的气质，殿下也同意了，将它送给你！” <br />
         将它拿在手中，重约五斤，材质特殊，像是庚金石和凤凰木炼制而成，将它展开，扇面上画着百鸟朝凰，群鸟围着一只金凤凰起舞，背景是天空。
       </p>
@@ -427,6 +444,7 @@
       <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例18】 <br />
         试着挥舞一下，张荣华满意的点点头，将它收起来，笑道：<br />
         “谢了！” <br />
         “我们还需要这么客气？”<br />
@@ -451,6 +469,7 @@
         <tr>
     <td class="tg-0lax" style="text-align: left" bgcolor='#efefef' colspan="2">
       <p>
+        【样例19】 <br />
         陆展堂笑道：<br />
         “沾了荣华的福。”<br />
         “你呢？”<br />
