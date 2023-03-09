@@ -9,7 +9,7 @@
   <body>
 
     
-<h2>1. Synthesized samples -- Multi-speaker<a name="multi-speaker"></a></h2>
+<h2>Sample 1<a name="multi-speaker"></a></h2>
 <h3> Using three reference audios </h3>
 <table>
   
