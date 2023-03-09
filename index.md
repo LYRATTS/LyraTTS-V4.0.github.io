@@ -9,7 +9,7 @@
   <body>
 
     
-<h2>Sample 1<a name="multi-speaker"></a></h2>
+<!-- <h2>Sample 1<a name="multi-speaker"></a></h2>
 <h3> Using three reference audios </h3>
 <table>
   
@@ -37,7 +37,7 @@
       <td style="text-align: left"><audio src="wavs\dv4.0_01.wav" controls="" preload=""></audio></td>
     </tr>
 
-</table>
+</table> -->
     
 <table class="tg">
 <thead>
@@ -48,7 +48,7 @@
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax" style="text-align: center" colspan="2">'1. This is Text'</td>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'1. This is Text'</td>
   </tr>
   <tr>
     <th class="tg-0lax">Reference</th>
@@ -65,7 +65,7 @@
   
   
   <tr>
-    <td class="tg-0lax" style="text-align: center" colspan="2">'2. This is Text'</td>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'2. This is Text'</td>
   </tr>
   <tr>
     <th class="tg-0lax">Reference</th>
@@ -81,7 +81,7 @@
   </tr>
   
   <tr>
-    <td class="tg-0lax" style="text-align: center" colspan="2">'3. This is Text'</td>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'3. This is Text'</td>
   </tr>
   <tr>
     <th class="tg-0lax">Reference</th>
@@ -97,7 +97,7 @@
   </tr>
   
   <tr>
-    <td class="tg-0lax" style="text-align: center" colspan="2">'4. This is Text'</td>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'4. This is Text'</td>
   </tr>
   <tr>
     <th class="tg-0lax">Reference</th>
@@ -110,6 +110,55 @@
   <tr>
     <td class="tg-0lax">V4</td>
     <td class="tg-0lax"><audio src="wavs\rv4.0_04.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+    <tr>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'5. This is Text'</td>
+  </tr>
+  <tr>
+    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax"><audio src="wavs\reference_05.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_05.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\rv4.0_05.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+    <tr>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'6. This is Text'</td>
+  </tr>
+  <tr>
+    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax"><audio src="wavs\reference_06.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_06.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\rv4.0_06.wav" controls="" preload=""></audio></td>
+  </tr>
+  
+  
+    <tr>
+    <td class="tg-0lax" style="text-align: center" bgcolor='#cbcefb' colspan="2">'7. This is Text'</td>
+  </tr>
+  <tr>
+    <th class="tg-0lax">Reference</th>
+    <td class="tg-0lax"><audio src="wavs\reference_07.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V3</td>
+    <td class="tg-0lax"><audio src="wavs\v3_07.wav" controls="" preload=""></audio></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">V4</td>
+    <td class="tg-0lax"><audio src="wavs\rv4.0_07.wav" controls="" preload=""></audio></td>
   </tr>
   
   
